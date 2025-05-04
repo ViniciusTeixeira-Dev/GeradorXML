@@ -1,9 +1,9 @@
 
 # 🧾 Gerador de XML em Java / XML Generator in Java
 
-Projeto simples em Java que gera um XML formatado automaticamente a partir de objetos usando **reflection**.
+📌 Projeto simples em Java que gera um XML formatado automaticamente a partir de objetos usando **reflection**.
 
-Simple Java project that generates formatted XML automatically from objects using **reflection**.
+📌 Simple Java project that generates formatted XML automatically from objects using **reflection**.
 
 > 📚 **Este projeto foi desenvolvido como atividade prática do curso ISIFLIX.**  
 > 📚 **This project was developed as a practical activity for the ISIFLIX course.**
